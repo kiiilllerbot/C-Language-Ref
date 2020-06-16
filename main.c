@@ -21,7 +21,7 @@
 // Sample Program
 #include <stdio.h>
 
-// #define macro_name character_sequence
+// define macro_name character_sequence
 #define LIMIT 10
 
 // undefining existing macro LIMIT
