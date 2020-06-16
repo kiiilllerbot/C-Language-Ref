@@ -77,6 +77,9 @@
 		<Unit filename="F:/Language References/C Language/testC/main.c">
 			<Option target="testC"/>
 		</Unit>
+		<Unit filename="F:/Language References/C Language/testC/swap.h">
+			<Option target="testC"/>
+		</Unit>
 		<Unit filename="F:/Language References/C Language/testC/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>

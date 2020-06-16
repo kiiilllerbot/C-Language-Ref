@@ -3,4 +3,4 @@ project(testC C)
 
 set(CMAKE_C_STANDARD 11)
 
-add_executable(testC main.c)
+add_executable(testC main.c swap.h)
